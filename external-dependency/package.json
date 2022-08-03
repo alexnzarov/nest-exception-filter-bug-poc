@@ -1,0 +1,17 @@
+{
+  "name": "external-dependency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nestjs/common": "^8.0.0",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.2.0",
+    "typescript": "^4.3.5"
+  }
+}
